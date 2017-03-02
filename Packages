@@ -4,9 +4,9 @@ Architecture: iphoneos-arm
 Maintainer: Jake Lindsey <jlindsey_84@hotmail.com>
 Filename: ./debs//com.kromite.gba4ios_2.1-4b_iphoneos-arm.deb
 Size: 7718686
-MD5sum: ff40ec62007d392c814ae03042d38cea
-SHA1: 3b9681b954edb2e6f399430b84432c7b8190d73e
-SHA256: 92d3daaa97820ddd267a83d6b5a9431d7794321932c768726feb2934c0598423
+MD5sum: 8591355a4bd931e99ebf2044b351fbc2
+SHA1: 645f816c2481083370a0b181073e7c5963fd9352
+SHA256: fe53dd9434fb48ffa60f3c467cc6158c5b2f43fab886f132d9235f61eed326c7
 Section: Emulators
 Homepage: kromite.github.io
 Description: An amazing GBA emulator for iOS.
@@ -21,9 +21,9 @@ Maintainer: Jake Lindsey <jlindsey_84@hotmail.com>
 Depends: firmware (<= 8.4)
 Filename: ./debs//com.kromite.retroarch_1.0.0.2_iphoneos-arm.deb
 Size: 41124976
-MD5sum: 6d8f0b18e130a80e63406a09b2c6a966
-SHA1: 422b7e52c713c84f6bac46b22f87c047da7f37b5
-SHA256: 1b52bfbafc3d37c79dad2a15d54d863560e2b77c98fe6e66a5e92cc1d9cd86fd
+MD5sum: 2b47b8be9d173f254855817636cdbbf8
+SHA1: 19cdab0df03c046c993c49da2b48eeb94f294964
+SHA256: 4dab14cd8fe3b7f3b4bef4fbedeb68721181c1f9e6aeec18925fca1183940a69
 Section: Emulators
 Homepage: kromite.github.io
 Description: A Multi-Platform Emulator.
@@ -38,9 +38,9 @@ Maintainer: Jake Lindsey <jlindsey_84@hotmail.com>
 Depends: firmware (>= 10.0.1)
 Filename: ./debs//com.kromite.retroarch10_1.4.1_iphoneos-arm.deb
 Size: 132359144
-MD5sum: 91d3ae9c208145bef60297713d8270ac
-SHA1: ef351a4ac9312fe21cc8cb9b4bae42551254b60a
-SHA256: 3acac988a1524db9a27bfbfe76a409ca66e79e308b3dc8035eda27b5b2cb59dc
+MD5sum: e744e7fec2cf98d6443ce48a81371a99
+SHA1: ca17e20bedaec1ac3df8f266ab6dcec987b738ac
+SHA256: 13448a035245bf77522813e12d9b1e71a2dfd82bc5446393e42754762b741fd7
 Section: Emulators
 Homepage: kromite.github.io
 Description: RetroArch10 is the official reference frontend for the libretro API. Beta version, thanks to Kromite.
@@ -56,9 +56,9 @@ Maintainer: Jake Lindsey <jlindsey_84@hotmail.com>
 Depends: firmware (>= 9.0)
 Filename: ./debs//com.kromite.retroarch9_1.3.6-1_iphoneos-arm.deb
 Size: 98275184
-MD5sum: 8aed782d21319e331d4b8e57630db6e3
-SHA1: d10ac55590f3708a36e3d61159efa74e5def93b7
-SHA256: ade59a7bd16ddbcc182684a99deafd242e991463c28e4766328d9e1ccb9dc922
+MD5sum: 272dd08c614de3b6daefa94f9fc6e936
+SHA1: 158771d90369e017124edc9e4a95f16b2cf18a81
+SHA256: a7cb640fdc4753b591a0b63e82ae59b192d4868917da4db63410512c2a8b2873
 Section: Emulators
 Homepage: kromite.github.io
 Description: RetroArch9 is the official reference frontend for the libretro API. Latest stable version, thanks to Kromite.
